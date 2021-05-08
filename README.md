@@ -9,4 +9,4 @@
  ![](rbfkernel.PNG)
  
  
- ![](revised rbf.PNG)
+ ![](revised%20rbf.PNG)
