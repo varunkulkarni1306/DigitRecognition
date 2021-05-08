@@ -7,8 +7,8 @@ RBF kernel
  
 ![](rbfkernel.PNG)
  
-Revised RBF kernel with higher accuracy
+Revised RBF kernel 
 ![](revised%20rbf.PNG)
 
-Predicted on tesr data
+Predicted on test data
 ![](predicted.PNG)
